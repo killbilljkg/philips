@@ -1,0 +1,64 @@
+/*
+Template Name: Electo
+File: Layout CSS
+Author: TemplatesOnWeb
+Author URI: https://www.templateonweb.com/
+Licence: <a href="https://www.templateonweb.com/license">Website Template Licence</a>
+*/
+/*********************contact****************/
+.contact_1{
+border:1px solid #ff66001f;  
+ }
+.contact_1i{
+border-right:1px solid #ff66001f; 
+ }
+.contact_2lil .form-control{
+height:50px; 
+ }
+.contact_2lil .form_text{
+height:180px; 
+ }
+/*********************contact_end****************/
+
+
+@media screen and (max-width : 767px){
+.contact_1i {
+text-align:center; 
+ }
+.contact_1i {
+margin-top:15px;
+border:none; 
+ }
+.contact_1i h5{
+margin-top:10px; 
+ }
+.contact_2l{
+text-align:center;
+ }
+.contact_2l p{
+text-align:left; 
+ }
+.contact_2l h6{
+margin-bottom:15px!important; 
+ }
+.contact_2r{
+margin-top:15px; 
+ }
+ }
+
+@media (min-width:576px) and (max-width:767px) {
+
+
+ }
+@media (min-width:768px) and (max-width:991px) {
+
+ }
+
+@media (min-width:992px) and (max-width:1200px) {
+
+ }
+@media (min-width:1201px) and (max-width:1355px) {
+
+ }
+
+

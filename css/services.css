@@ -1,0 +1,85 @@
+/*
+Template Name: Electo
+File: Layout CSS
+Author: TemplatesOnWeb
+Author URI: https://www.templateonweb.com/
+Licence: <a href="https://www.templateonweb.com/license">Website Template Licence</a>
+*/
+/*********************services****************/
+.test_1ril span{
+width:70px;
+height:70px;
+line-height:60px;
+font-size:26px;
+display:inline-block;
+background:#fff;
+color:#ff6600;
+border-radius:50%;
+border:3px solid #ff6600;
+text-align:center;
+ }
+.test_1r{
+padding:110px 40px 0px 40px; 
+ }
+.test_1l{
+background-image: url(../img/21.jpg);
+background-position: center;
+ }
+.test_1lm{
+background: #0000009e;
+padding:460px 40px 40px 40px;
+ }
+ 
+.pricing_2i{
+box-shadow: 0 0 5px rgb(0 0 0 / 10%);
+ }
+.pricing_2i2{
+border-top:1px solid #ff66001f;
+border-bottom:1px solid #ff66001f;
+ }
+/*********************services_end****************/
+
+
+@media screen and (max-width : 767px){
+.test_1r{
+padding:20px;
+text-align:center; 
+ }
+.test_1r br{
+display:none; 
+ }
+.test_1r p{
+text-align:left;
+ }
+.test_1ril{
+margin-top:15px; 
+ }
+.pricing_2i {
+margin-top:15px;  
+ }
+.pricing_2i p{
+text-align:left; 
+ }
+ }
+
+@media (min-width:576px) and (max-width:767px) {
+
+
+ }
+@media (min-width:768px) and (max-width:991px) {
+.test_1r {
+padding: 20px 20px 0px 20px;
+}
+.test_1r br{
+display:none;
+}
+ }
+
+@media (min-width:992px) and (max-width:1200px) {
+
+ }
+@media (min-width:1201px) and (max-width:1355px) {
+
+ }
+
+

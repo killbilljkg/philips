@@ -1,0 +1,89 @@
+/*
+Template Name: Electo
+File: Layout CSS
+Author: TemplatesOnWeb
+Author URI: https://www.templateonweb.com/
+Licence: <a href="https://www.templateonweb.com/license">Website Template Licence</a>
+*/
+/*********************blog****************/
+.blog_1r1 h6 a{
+border:1px solid #ff66001f; 
+ }
+.blog_1r1 h6 a:hover{
+background:#ff6600;
+color:#fff;
+ }
+.blog_1r2 ul li a{
+border:1px solid #ff66001f;
+padding:7px 14px;
+font-size:14px;
+margin: 0 2px 7px 0;
+display:block;
+border-radius:5px; 
+ }
+.blog_1r2 ul li a:hover{
+background:#ff6600;
+color:#fff;
+ }
+.blog_1r2 .form-control {
+height: 50px;
+}
+
+.blog_1dl2 .social-circle a{
+background:#343742;  
+ }
+.blog_1dl3il .form-control {
+height: 50px;
+}
+.blog_1dl3i .form_text {
+height: 150px;
+}
+/*********************blog_end****************/
+
+
+@media screen and (max-width : 767px){
+.pages ul li{
+margin-bottom:8px; 
+ }
+.blog_1r{
+margin-top:15px; 
+ }
+.blog_1r2  h5{
+text-align:center; 
+ }
+.blog_1dl2 h5{
+text-align:center;  
+ }
+.blog_1dl2 ul{
+text-align:center;  
+ }
+.blog_1dl3 h4{
+text-align:center; 
+ }
+.blog_1dl3il .form-control{
+margin-top:10px;  
+ }
+.blog_1dl3i {
+text-align:center; 
+ }
+.blog_1dl3ir{
+text-align:left; 
+ }
+ }
+
+@media (min-width:576px) and (max-width:767px) {
+
+
+ }
+@media (min-width:768px) and (max-width:991px) {
+
+ }
+
+@media (min-width:992px) and (max-width:1200px) {
+
+ }
+@media (min-width:1201px) and (max-width:1355px) {
+
+ }
+
+
